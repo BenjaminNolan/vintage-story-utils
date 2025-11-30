@@ -1,0 +1,14 @@
+/* @import url(./normalize.css); */
+
+* {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+section#main {
+  padding-top: 64px;
+}
+
+th {
+  background-color: rgba(var(--v-theme-surface-light), 1) !important;
+  font-weight: 900 !important;
+}
